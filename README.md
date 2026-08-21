@@ -39,13 +39,13 @@ Tenho interesse principalmente em programação e estou aprendendo **Python**. A
 > 🌱 Sempre aprendendo algo novo.
 
 
-<!-- =========================
+ =========================
      APRENDENDO
-========================= -->
+=========================
 
 ## Atualmente aprendendo
 
-```text
+text
 Python
 ████████████░░░░░░░░
 
@@ -59,10 +59,14 @@ Git & GitHub
 ████████░░░░░░░░░░░░
 
 
-
+<p>
 
 ## ========================= REDES SOCIAIS =========================
 Onde me encontrar:
+<a href="https://instagram.com/vivika_mads">
+    <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=green"/>
+  </a>
+</p>
  <!-- ========================= CONTATO ========================= -->
 Contato
 📧 vitoriac.n2008@gmail.com
