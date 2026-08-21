@@ -64,14 +64,14 @@ Git & GitHub
 ## ========================= REDES SOCIAIS =========================
 Onde me encontrar:
 <a href="https://instagram.com/vivika_mads">
-    <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=green"/>
+    <img src="https://img.shields.io/badge/Instagram-001a0d?style=for-the-badge&logo=instagram&logoColor=green"/>
   </a>
 </p>
  <!-- ========================= CONTATO ========================= -->
 Contato
 📧 vitoriac.n2008@gmail.com
 <a href="https://email.google.com.com/vitoriac.n2008@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=&logoColor=green"/>
+    <img src="https://img.shields.io/badge/Email-001a0d ?style=for-the-badge&logo=&logoColor=green"/>
   </a>
 
 Caso queira entrar em contato comigo sobre algum projeto, ideia ou colaboração, fique à vontade!
