@@ -1,77 +1,133 @@
-<h1 align="center">👋 Olá, eu sou SEU_NOME</h1>
-
-<p align="center">
-  💻 Desenvolvedor | 🚀 Entusiasta de tecnologia | 🎮 Gamer
-</p>
-## 🧑‍💻 Sobre mim
-
-## 🧑‍💻 Sobre mim
-
-- me chamo vitória Cristiane Neri;
-- 17 anos;
-- email: vitoriac.n2008@gmail.com
-- atualmente frequentando a instituição de ensino CEDUP Renato Ramos da Silva;
-- curso técnico em informática;
-- aprendendo a programar principalmente phyton; 
-- procurando aprender e conhecer sempre mais!
+<!-- =========================================================
+     VITÓRIA CRISTIANE NERI — GITHUB PROFILE
+     
+     TEMA: Verde escuro + Preto
+     ESTILO: Tech / Dark / Minimalista / Misterioso
+     
+     DICA:
+     Tudo que você provavelmente vai querer alterar está
+     marcado com "EDITAR".
+========================================================= -->
 
 
-## 🚀 Tecnologias
+<!-- =========================
+     HEADER / GIF
+========================= -->
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
-</p>
+<div align="center">
 
-## 📊 GitHub
+<!-- EDITAR: troque o GIF abaixo quando quiser -->
+<img <img width="500" height="279" alt="fb95bfaf7793e153e424185bbb691e77merda" src="https://github.com/user-attachments/assets/23cd529e-9689-4313-babd-d2577ae20fc9" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
-</p>
 
-## 🔥 Streak
+<br>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight" />
-</p>
+# Vitória Cristiane Neri
 
-## 📫 Onde me encontrar
+### `estudante de informática • aprendendo • criando`
 
-<p align="center">
-  <a href="https://linkedin.com/in/SEU_USUARIO">
-    LinkedIn
-  </a>
-  |
-  <a href="https://instagram.com/SEU_USUARIO">
-    Instagram
-  </a>
-</p>
+</div>
 
-## 🚀 Tecnologias
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
-</p>
+<!-- =========================
+     SOBRE MIM
+========================= -->
 
-## 📊 GitHub
+## Sobre mim
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
-</p>
+Olá! Eu sou **Vitória Cristiane Neri**, tenho 17 anos e atualmente estudo no **CEDUP Renato Ramos da Silva**, onde faço o curso técnico em **Informática**.
 
-## 🔥 Streak
+Tenho interesse principalmente em programação e estou aprendendo **Python**. Ainda estou no começo da minha jornada, então meu objetivo é continuar experimentando, aprendendo e conhecendo novas áreas da tecnologia.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight" />
-</p>
+> 🌱 Sempre aprendendo algo novo.
 
-## 📫 Onde me encontrar
 
-<p align="center">
-  <a href="https://linkedin.com/in/SEU_USUARIO">
-    LinkedIn
-  </a>
-  |
-  <a href="https://instagram.com/SEU_USUARIO">
-    Instagram
-  </a>
-</p>
+<!-- =========================
+     TECNOLOGIAS
+========================= -->
+
+## Tecnologias
+
+<div align="center">
+
+<!-- EDITAR:
+     Você pode adicionar ou remover tecnologias.
+     Exemplos: java, c, cpp, react, nodejs...
+-->
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" />
+
+</div>
+
+
+<!-- =========================
+     APRENDENDO
+========================= -->
+
+## Atualmente aprendendo
+
+```text
+Python
+████████████░░░░░░░░
+
+Lógica de programação
+███████████░░░░░░░░░
+
+Desenvolvimento Web
+███████░░░░░░░░░░░░░
+
+Git & GitHub
+████████░░░░░░░░░░░░
+
+<!-- IMPORTANTE: Essas barras são apenas visuais. Você pode alterar livremente os níveis. --> <!-- ========================= GITHUB STATS ========================= -->
+GitHub
+<div align="center"> <!-- EDITAR: TROQUE "SEU_USUARIO" pelo seu novo usuário do GitHub. -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3cff88&icon_color=3cff88&text_color=b8c7bd" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0d1117&title_color=3cff88&text_color=b8c7bd" />
+
+</div> <!-- ========================= PROJETOS ========================= -->
+Projetos
+Alguns projetos que estou desenvolvendo e experimentando.
+
+🌿 Projeto 01
+Nome do projeto
+
+Pequena descrição do projeto.
+
+Python Em desenvolvimento
+
+🌿 Projeto 02
+Nome do projeto
+
+Pequena descrição do projeto.
+
+HTML CSS JavaScript
+
+🌿 Projeto 03
+Nome do projeto
+
+Pequena descrição do projeto.
+
+Python Git
+
+<!-- Quando tiver projetos reais, você pode transformar esses blocos em links para os repositórios. --> <!-- ========================= ESTATÍSTICAS ========================= -->
+Atividade
+<div align="center"> <!-- EDITAR: TROQUE SEU_USUARIO -->
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&hide_border=true&background=0d1117&ring=3cff88&fire=3cff88&currStreakLabel=3cff88&sideLabels=b8c7bd&currStreakNum=ffffff&sideNums=ffffff&dates=6f8075" />
+
+</div> <!-- ========================= REDES SOCIAIS ========================= -->
+Onde me encontrar
+<div align="center"> <!-- EDITAR: Coloque seu usuário do Instagram no lugar de SEU_INSTAGRAM. --> <a href="https://instagram.com/SEU_INSTAGRAM"> <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=3cff88" /> </a> <!-- EDITAR: Caso tenha LinkedIn, coloque seu usuário aqui. --> <a href="https://linkedin.com/in/SEU_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=3cff88" /> </a> <!-- GitHub --> <a href="https://github.com/SEU_USUARIO"> <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=3cff88" /> </a> </div> <!-- ========================= CONTATO ========================= -->
+Contato
+📧 vitoriac.n2008@gmail.com
+
+Caso queira entrar em contato comigo sobre algum projeto, ideia ou colaboração, fique à vontade!
+
+<!-- ========================= FINAL ========================= --> <div align="center"> <br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2" />
+
+<br>
+feito com curiosidade e um pouco de código 🌿
+
+</div> ```
