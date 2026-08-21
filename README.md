@@ -17,12 +17,12 @@
 <div align="center">
 
 <!-- EDITAR: troque o GIF abaixo quando quiser -->
-<img <img width="500" height="279" alt="fb95bfaf7793e153e424185bbb691e77merda" src="https://github.com/user-attachments/assets/23cd529e-9689-4313-babd-d2577ae20fc9" />
+<img width="500" height="279" alt="fb95bfaf7793e153e424185bbb691e77merda" src="https://github.com/user-attachments/assets/23cd529e-9689-4313-babd-d2577ae20fc9" />
 
 
 <br>
 
-# Vitória Cristiane Neri
+# BEM VINDO AO MEU PERFIL
 
 ### `estudante de informática • aprendendo • criando`
 
@@ -40,24 +40,6 @@ Olá! Eu sou **Vitória Cristiane Neri**, tenho 17 anos e atualmente estudo no *
 Tenho interesse principalmente em programação e estou aprendendo **Python**. Ainda estou no começo da minha jornada, então meu objetivo é continuar experimentando, aprendendo e conhecendo novas áreas da tecnologia.
 
 > 🌱 Sempre aprendendo algo novo.
-
-
-<!-- =========================
-     TECNOLOGIAS
-========================= -->
-
-## Tecnologias
-
-<div align="center">
-
-<!-- EDITAR:
-     Você pode adicionar ou remover tecnologias.
-     Exemplos: java, c, cpp, react, nodejs...
--->
-
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark" />
-
-</div>
 
 
 <!-- =========================
@@ -79,35 +61,9 @@ Desenvolvimento Web
 Git & GitHub
 ████████░░░░░░░░░░░░
 
-<!-- IMPORTANTE: Essas barras são apenas visuais. Você pode alterar livremente os níveis. --> <!-- ========================= GITHUB STATS ========================= -->
-GitHub
-<div align="center"> <!-- EDITAR: TROQUE "SEU_USUARIO" pelo seu novo usuário do GitHub. -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3cff88&icon_color=3cff88&text_color=b8c7bd" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0d1117&title_color=3cff88&text_color=b8c7bd" />
 
-</div> <!-- ========================= PROJETOS ========================= -->
-Projetos
-Alguns projetos que estou desenvolvendo e experimentando.
-
-🌿 Projeto 01
-Nome do projeto
-
-Pequena descrição do projeto.
-
-Python Em desenvolvimento
-
-🌿 Projeto 02
-Nome do projeto
-
-Pequena descrição do projeto.
-
-HTML CSS JavaScript
-
-🌿 Projeto 03
-Nome do projeto
-
-Pequena descrição do projeto.
 
 Python Git
 
