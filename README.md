@@ -70,6 +70,9 @@ Onde me encontrar:
  <!-- ========================= CONTATO ========================= -->
 Contato
 📧 vitoriac.n2008@gmail.com
+<a href="https://email.google.com.com/vitoriac.n2008@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=&logoColor=green"/>
+  </a>
 
 Caso queira entrar em contato comigo sobre algum projeto, ideia ou colaboração, fique à vontade!
 
